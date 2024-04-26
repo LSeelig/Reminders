@@ -31,10 +31,10 @@ You can translate Reminders on [Weblate](https://hosted.weblate.org/engage/remin
 
 ### Installing dependencies (Flatpak):
 ```
-flatpak install flathub org.gnome.Sdk//45
+flatpak install flathub org.gnome.Sdk//46
 ```
 ```
-flatpak install flathub org.gnome.Platform//45
+flatpak install flathub org.gnome.Platform//46
 ```
 You will also need `flatpak-builder`
 
